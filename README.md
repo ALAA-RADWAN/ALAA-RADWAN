@@ -10,6 +10,7 @@
 - 💬 Ask me about **Manual Testing, API Testing, Automation Testing, Agile Testing, Performance Testing**
 
 - 📫 How to reach me **alaa.radwan8497@gmail.com**
+- 🌱 My Portfolio ("https://github.com/ALAA-RADWAN/My-Portfolio")
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +28,4 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff" width="90" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALAA-RADWAN&show_icons=true&locale=en&layout=compact" alt="ALAA-RADWAN" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ALAA-RADWAN&show_icons=true&locale=en" alt="ALAA-RADWAN" /></p>
 
