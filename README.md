@@ -5,16 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsali15" alt="ALAA-RADWAN" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium ,TestNG and Cucumber**
+- 🌱 I’m currently learning **Selenium ,TestNG**
 
-- 💬 Ask me about **Manual Testing , API Testing, Automation Testing, Agile Testing, Performance Testing**
+- 💬 Ask me about **Manual Testing, API Testing, Automation Testing, Agile Testing, Performance Testing**
 
 - 📫 How to reach me **alaa.radwan8497@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alaa-radwan-27179a158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shams-ali-a0622a218/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaa-radwan-27179a158/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaa-radwan-27179a158" height="30" width="40" /></a>
+<a href="alaa.radwan8497@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff" height="30" width="90" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
