@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ALAA-RADWAN" alt="ALAA-RADWAN" /></a> </p>
 
-- 🌱 I’m currently learning **Selenium ,TestNG**
+- 🌱 **I’m currently searching for a job as a software QA tester and preparing for the ISTQB FL Exam.**
 
 - 💬 Ask me about **Manual Testing, API Testing, Automation Testing, Agile Testing, Performance Testing**
 
