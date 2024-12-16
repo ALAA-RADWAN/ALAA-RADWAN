@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsali15&label=Profile%20views&color=0e75b6&style=flat" alt="ALAA-RADWAN" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ALAA-RADWAN" alt="ALAA-RADWAN" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsali15" alt="ALAA-RADWAN" /></a> </p>
 
 - 🌱 **I’m currently searching for a job as a software QA tester and preparing for the ISTQB FL Exam.**
 
