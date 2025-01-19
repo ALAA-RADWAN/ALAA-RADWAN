@@ -10,7 +10,7 @@
 - 💬 Ask me about **Manual Testing, API Testing, Automation Testing, Agile Testing, Performance Testing**
 
 - 📫 How to reach me **alaa.radwan8497@gmail.com**
-- 🌱 My Portfolio https://github.com/ALAA-RADWAN/My-Portfolio  
+- 🌱 Kindly download my updated CV and portfolio as PDFs from here: https://drive.google.com/drive/folders/1YKygfybw3Az3fJRJKqWvdla2LScWCFhq?usp=sharing 
 
 
 <h3 align="left">Connect with me:</h3>
