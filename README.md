@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alaa Radwan</h1>
 <h3 align="center"> Junior Software Testing Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsali15&label=Profile%20views&color=0e75b6&style=flat" alt="ALAA-RADWAN" /> </p>
+![](https://komarev.com/ghpvc/?username=ALAA-RADWAN&color=green)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsali15" alt="ALAA-RADWAN" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ALAA-RADWAN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 **I’m currently searching for a job as a software QA tester and preparing for the ISTQB FL Exam.**
 
