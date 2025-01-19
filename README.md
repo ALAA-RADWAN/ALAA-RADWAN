@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ALAA-RADWAN&color=green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ALAA-RADWAN&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ALAA-RADWAN&theme=onedark)](https://github.com/ALAA-RADWAN/github-profile-trophy)
 
 - 🌱 **I’m currently searching for a job as a software QA tester and preparing for the ISTQB FL Exam.**
 
