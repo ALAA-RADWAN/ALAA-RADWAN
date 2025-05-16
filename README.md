@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Radwan</h1>
-<h3 align="center"> Junior Software Testing Engineer | ISTQB Certified Tester </h3>
+<h3 align="center"> Junior Software Test Engineer | ISTQB Certified Tester </h3>
 
 ![](https://komarev.com/ghpvc/?username=ALAA-RADWAN&color=green)
 
