@@ -39,6 +39,20 @@
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40" height="40" alt="selenium"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff" width="90" height="40" alt="jira"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 
+  <!-- SlickNav (text badge because no official logo exists) -->
+<img src="https://img.shields.io/badge/SlickNav-Responsive%20Menu-green?style=for-the-badge" height="40" alt="SlickNav"/>
+<!-- jQuery -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery"/>
+
+<!-- Git / GitHub -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+
+<!-- VS Code -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+<!-- Eclipse -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse"/>
 </p>
 
