@@ -54,5 +54,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Tool-Visual%20Paradigm-red?style=for-the-badge" alt="Visual Paradigm"/>
+  <img src="https://img.shields.io/badge/Tool-MAMP-blue?style=for-the-badge" alt="MAMP"/>
+  <img src="https://img.shields.io/badge/Tool-Prot%C3%A9g%C3%A9-purple?style=for-the-badge" alt="Protégé"/>
 </p>
 
+
+---
