@@ -16,7 +16,7 @@
 
 ---
 
-### Languages and Tools:
+ <h2 align="center"> Languages and Tools </h2>
  
   ## Programming Languages
   <p align="left">
